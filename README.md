@@ -1,4 +1,17 @@
 # Algorithmic Trading
+The objective of this Jupyter notebook is to create an algorithmic trading bot by:
+1) Implementing an algorithmic trading strategy using machine learning to automate the trade decisions.
+2) Adjusting the input parameters to optimize the trading algorithm.
+3) Training tuned models to compare performance to baseline model.
+
+Libraries and dependencies:
+- Pandas
+- Numpy
+- Path
+- Hvplot
+- Matplotlib.pyplot
+- Sklearn
+
 ## Results
 
 Baseline Trading Algorithm:<br>
